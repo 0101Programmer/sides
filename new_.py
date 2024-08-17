@@ -33,4 +33,4 @@ print('Hello from git')
 # some updates
 a = 1
 b = 2
-
+# проверка изменений
