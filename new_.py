@@ -29,6 +29,7 @@ def __is_valid_sides__2(l1, l2, l3, *args):
 
 print(__is_valid_sides__2(1, 3, 10, 1, 2, 3))
 print(__is_valid_sides__2(1, 3, 10, 1, 2.5, 3))
+print('Hello from git')
 
 
 
